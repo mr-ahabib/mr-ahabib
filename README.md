@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Md. Ahashan Habib</h1>
+<h1 align="center">
+  Hi 👋, I'm Md. Ahashan Habib
+  <br>
+  <img src="https://user-images.githubusercontent.com/48458447/207437503-99e4a6a2-123d-4d9a-b6f1-2e3609a4327f.gif" alt="Coder Animation" width="200" />
+</h1>
+
 <h3 align="center">Software Developer | LLM Researcher | Blockchain Enthusiast | Programmer</h3>
 
 <p align="center">
@@ -6,9 +11,7 @@
   <img src="https://img.shields.io/github/followers/mr-ahabib?style=social" alt="GitHub Followers" />
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/48458447/207437503-99e4a6a2-123d-4d9a-b6f1-2e3609a4327f.gif" alt="Coder Animation" width="600" />
-</p>
+---
 
 ---
 
