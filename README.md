@@ -1,27 +1,83 @@
-🚀 Welcome to My GitHub Profile!
-<div align="center"> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Coding Animation" width="500" /> </div>
-🌟 Hi 👋, I'm Md. Ahashan Habib
-Innovative Software Developer | Spring Boot Enthusiast | Programmer
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mr-ahabib&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> <img src="https://img.shields.io/github/followers/mr-ahabib?label=Followers&style=social" alt="GitHub Followers"> <img src="https://img.shields.io/badge/Love-Coding-orange?style=flat-square&logo=github&logoColor=white" alt="Passion for Coding"> </p>
-✨ About Me
-🔭 Currently working on: UIU INNOVATIVE HORIZONS, creating impactful, scalable solutions.
-🌱 Exploring: Machine Learning, Digital Image Processing, and refining my expertise in Spring Boot.
-👯 Open to Collaborations: Excited to work on open-source projects and contribute to the community.
-💬 Ask me about: Spring Boot, Java, or anything tech-related!
-📫 Contact me via: mr.ahabib261@gmail.com
-⚡ Fun Fact: Debugging code is like solving puzzles, but coffee ☕ makes me faster!
-🚀 Let's Connect!
-<p align="center"> <a href="https://fb.com/mr.ahashan" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook" width="40" height="40" class="hover-grow"/> </a> <a href="https://instagram.com/_habib_ahashan" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" height="40" class="hover-grow"/> </a> <a href="https://www.linkedin.com/in/md-ahashan-habib/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png" alt="LinkedIn" width="40" height="40" class="hover-grow"/> </a> </p>
-🛠️ Technologies I Work With:
-<div align="center"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" class="hover-spin" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" class="hover-spin" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" class="hover-spin" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" class="hover-spin" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" class="hover-spin" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" class="hover-spin" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" class="hover-spin" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/laravel.png" alt="Laravel" class="hover-spin" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" class="hover-spin" width="40" height="40"/> </div>
-📊 My GitHub Stats:
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-ahabib&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-ahabib&theme=radical" alt="GitHub Streak" /> <br/> <img src="https://github-readme-stats.vercel.app/api?username=mr-ahabib&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /> </div>
-🌟 My Motto:
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Code+like+a+poet.;Debug+like+a+detective.;Learn+like+a+sponge.;Dream+Big%2C+Code+Smart!" /> </p>
-🎯 What Drives Me:
-<div align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programming Motivation" width="500"/> </div>
-🏆 Competitions & Achievements:
-While I haven’t listed specific competitions here, I enjoy participating in coding challenges, hackathons, and developer meetups to continuously improve my skills. I also work on building side projects that allow me to showcase my technical ability.
+<h1 align="center">Hi 👋, I'm Md. Ahashan Habib</h1>
+<h3 align="center">Software Developer | Spring Boot Enthusiast | Programmer</h3>
 
-💬 Let's Collaborate
-If you're interested in collaborating on exciting projects or want to discuss Spring Boot, Java, or Machine Learning, feel free to reach out to me via email.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mr-ahabib&label=Profile%20views&color=0e75b6&style=flat" alt="mr-ahabib" />
+</p>
+
+<!-- Profile Trophy Section -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mr-ahabib&theme=dracula&no-frame=true&column=7" alt="mr-ahabib" />
+  </a>
+</p>
+
+- 🔭 I’m currently working on **UIU INNOVATIVE HORIZONS**
+- 🌱 I’m currently learning **Machine Learning, Digital Image Processing**
+- 👯 I’m looking to collaborate on **Github**
+- 💬 Ask me about **Java, Web Development, Spring Boot**
+- 📫 How to reach me: **mr.ahabib261@gmail.com**
+- ⚡ Fun fact: **I think I am funny as always.**
+
+## 🚀 Connect with me:
+<p align="center">
+  <a href="https://fb.com/mr.ahashan" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mr.ahashan" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/_habib_ahashan" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_habib_ahashan" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/mr_ahashan" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr.ahashan" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/ahashan-habib" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="ahashan-habib" height="30" width="40" />
+  </a>
+</p>
+
+## 🛠️ Technologies & Tools:
+<p align="center">
+  <!-- Adding animation to tech icons -->
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" class="tech-icon" />
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40" class="tech-icon" />
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" class="tech-icon" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" class="tech-icon" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" class="tech-icon" />
+  </a>
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" class="tech-icon" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" class="tech-icon" />
+  </a>
+</p>
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-ahabib&show_icons=true&locale=en&layout=compact&theme=radical" alt="mr-ahabib" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-ahabib&show_icons=true&locale=en&theme=radical" alt="mr-ahabib" />
+</p>
+
+<!-- CSS for animation -->
+<style>
+  .tech-icon {
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .tech-icon:hover {
+    transform: scale(1.2);
+    transition: transform 0.3s ease-in-out;
+  }
+</style>
