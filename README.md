@@ -38,7 +38,7 @@
 
 ## 👤 About
 
-AI/ML engineer building production systems with **LLMs, RAG pipelines, and deep learning**. I bridge clean software engineering with cutting-edge AI — from medical education platforms and legal AI solutions to LLM memory-editing research. Experienced deploying at scale across startup and academic environments in Bangladesh and Finland.
+AI/ML Engineer building production systems with LLMs, RAG, and deep learning. Full-stack developer experienced in scalable ML applications, medical AI platforms, Legal AI platforms, and research. I bring together clean software engineering and cutting-edge AI.
 
 ---
 
