@@ -8,11 +8,11 @@
 
 <p>
   <a href="mailto:mr.ahashan261@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mr.ahashan261%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_SLUG">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/mr-ahabib">
@@ -23,13 +23,13 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/📍 Dhaka%2C Bangladesh-E6F1FB?style=flat-square&labelColor=E6F1FB&color=185FA5&logoColor=0C447C" />
+  <img src="https://img.shields.io/badge/Dhaka%2C_Bangladesh-informational?style=flat-square&color=185FA5" />
   &nbsp;
-  <img src="https://img.shields.io/badge/📄 3 IEEE Publications-E1F5EE?style=flat-square&labelColor=E1F5EE&color=0F6E56" />
+  <img src="https://img.shields.io/badge/3_IEEE_Publications-success?style=flat-square&color=0F6E56" />
   &nbsp;
-  <img src="https://img.shields.io/badge/🏆 2× Champion-FAEEDA?style=flat-square&labelColor=FAEEDA&color=854F0B" />
+  <img src="https://img.shields.io/badge/2%C3%97_Champion-orange?style=flat-square&color=854F0B" />
   &nbsp;
-  <img src="https://img.shields.io/badge/📝 IEEE Reviewer-EEEDFE?style=flat-square&labelColor=EEEDFE&color=534AB7" />
+  <img src="https://img.shields.io/badge/IEEE_Reviewer-blueviolet?style=flat-square&color=534AB7" />
 </p>
 
 </div>
@@ -44,7 +44,7 @@ AI/ML engineer building production systems with **LLMs, RAG pipelines, and deep 
 
 ## 💼 Experience
 
-**AI/ML Engineer** &nbsp;—&nbsp; [Ethics Advance Technology Ltd.](https://eatlbd.com), Dhaka &nbsp;`Feb 2025 – Jan 2026`
+**AI/ML Engineer** &nbsp;—&nbsp; Ethics Advance Technology Ltd., Dhaka &nbsp;`Feb 2025 – Jan 2026`
 
 > Built domain-adapted LLMs with RAG, vector DBs, and prompt engineering for a production medical LMS. Deployed LLM-powered solutions into real-time web applications with responsible AI practices — fairness & bias mitigation.
 
@@ -63,13 +63,13 @@ AI/ML engineer building production systems with **LLMs, RAG pipelines, and deep 
 ### 🧠 AI LMS Platform
 **`Production`** &nbsp; [→ ai-lms.eatlbd.com](https://ai-lms.eatlbd.com)
 
-Production-grade AI-powered Learning Management System integrating domain-adapted LLMs with RAG pipelines for intelligent content delivery, Q&A, and medical education support.
+Production AI Learning Management System with domain-adapted LLMs and RAG pipelines for medical education support.
 
-![LLMs](https://img.shields.io/badge/LLMs-E6F1FB?style=flat-square&color=185FA5&labelColor=E6F1FB)
-![RAG](https://img.shields.io/badge/RAG-E6F1FB?style=flat-square&color=185FA5&labelColor=E6F1FB)
+![LLMs](https://img.shields.io/badge/LLMs-185FA5?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-185FA5?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vector DB](https://img.shields.io/badge/Vector_DB-E6F1FB?style=flat-square&color=185FA5&labelColor=E6F1FB)
+![Vector DB](https://img.shields.io/badge/Vector_DB-185FA5?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -77,12 +77,12 @@ Production-grade AI-powered Learning Management System integrating domain-adapte
 ### 🔍 Docean AI
 **`Production`** &nbsp; [→ doceanai.cloud](https://doceanai.cloud)
 
-Enterprise AI document intelligence platform converting scanned files into structured, searchable data across Bangla, Arabic, English, and math. RAG-based knowledge systems enabling AI chatbots and fast retrieval.
+Enterprise OCR document intelligence platform for Bangla, Arabic, English & math — with AI chatbot and RAG-based fast retrieval.
 
-![LLM](https://img.shields.io/badge/LLM-E1F5EE?style=flat-square&color=0F6E56&labelColor=E1F5EE)
-![OCR](https://img.shields.io/badge/OCR-E1F5EE?style=flat-square&color=0F6E56&labelColor=E1F5EE)
+![LLM](https://img.shields.io/badge/LLM-0F6E56?style=flat-square)
+![OCR](https://img.shields.io/badge/OCR-0F6E56?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-E1F5EE?style=flat-square&color=0F6E56&labelColor=E1F5EE)
+![RAG](https://img.shields.io/badge/RAG-0F6E56?style=flat-square)
 
 </td>
 </tr>
@@ -92,12 +92,12 @@ Enterprise AI document intelligence platform converting scanned files into struc
 ### 📖 Bangla PDF RAG System
 [GitHub →](https://github.com/mr-ahabib)
 
-Reads Bangla PDFs and provides accurate answers by combining OCR, semantic search, and AI-powered language understanding.
+Reads Bangla PDFs and answers questions via OCR, semantic search, and AI-powered language understanding.
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-EEEDFE?style=flat-square&color=534AB7&labelColor=EEEDFE)
+![FAISS](https://img.shields.io/badge/FAISS-534AB7?style=flat-square)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![OCR](https://img.shields.io/badge/OCR-EEEDFE?style=flat-square&color=534AB7&labelColor=EEEDFE)
+![OCR](https://img.shields.io/badge/OCR-534AB7?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -105,11 +105,11 @@ Reads Bangla PDFs and provides accurate answers by combining OCR, semantic searc
 ### 💬 RAG Q&A & MCQ Generator
 [GitHub →](https://github.com/mr-ahabib)
 
-A RAG system that answers questions, supports chat, and generates MCQs from documents, with FastAPI backend and React frontend.
+Generates MCQs and answers from documents with a RAG pipeline, chat support, and interactive React frontend.
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-EEEDFE?style=flat-square&color=534AB7&labelColor=EEEDFE)
-![Llama](https://img.shields.io/badge/Llama-FAECE7?style=flat-square&color=993C1D&labelColor=FAECE7)
+![FAISS](https://img.shields.io/badge/FAISS-534AB7?style=flat-square)
+![Llama](https://img.shields.io/badge/Llama-993C1D?style=flat-square)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 </td>
@@ -120,13 +120,13 @@ A RAG system that answers questions, supports chat, and generates MCQs from docu
 ### 🏥 DocLink
 [GitHub →](https://github.com/mr-ahabib)
 
-Medical app for managing health records and document scanning with OCR, integrated with AI-based disease prediction using symptom analysis to provide intelligent health insights.
+Medical records mobile app with OCR and AI-based disease prediction through symptom analysis for intelligent health insights.
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![OCR](https://img.shields.io/badge/OCR-FAECE7?style=flat-square&color=993C1D&labelColor=FAECE7)
+![OCR](https://img.shields.io/badge/OCR-993C1D?style=flat-square)
 
 </td>
 </tr>
@@ -156,7 +156,7 @@ Medical app for managing health records and document scanning with OCR, integrat
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-**Frameworks & Tools**
+**Frameworks**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -172,7 +172,6 @@ Medical app for managing health records and document scanning with OCR, integrat
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-181717?style=flat-square)
-![PgVector](https://img.shields.io/badge/PgVector-4169E1?style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
@@ -211,20 +210,20 @@ CGPA: **3.62 / 4.00**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mr-ahabib&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" height="165" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-ahabib&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="165" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-ahabib&theme=github_dark" width="100%" alt="Profile Summary" />
 
-<br/><br/>
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=mr-ahabib&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e2d&currStreakNum=ffffff&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" height="165" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mr-ahabib&theme=github_dark" height="160" alt="Repos per Language" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mr-ahabib&theme=github_dark" height="160" alt="Most Commit Language" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mr-ahabib&theme=github_dark" height="160" alt="Stats" />
 
 </div>
 
 ---
 
 <div align="center">
-
-<sub>Building intelligent systems, one model at a time. &nbsp;·&nbsp; Open to research collaborations & opportunities.</sub>
-
+  <sub>Building intelligent systems, one model at a time. &nbsp;·&nbsp; Open to research collaborations & opportunities.</sub>
 </div>
