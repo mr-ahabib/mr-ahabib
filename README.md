@@ -1,119 +1,119 @@
-<div align="center">
+<h1 align="center">Md. Ahashan Habib</h1>
+<p align="center"><strong>AI/ML Engineer</strong> · LLMs · RAG · Full-Stack ML Systems</p>
 
-# Md. Ahashan Habib
+<p align="center">
+  <a href="mailto:mr.ahashan261@gmail.com">mr.ahashan261@gmail.com</a> ·
+  <a href="tel:+8801709180782">(+880) 1709-180782</a> ·
+  <a href="https://www.linkedin.com/in/">LinkedIn</a> ·
+  <a href="https://github.com/mr-ahabib">GitHub</a> ·
+  <a href="https://your-portfolio.com">Portfolio</a>
+</p>
 
-**AI/ML Engineer · LLM Researcher · Full-Stack Developer**
-
-[![Email](https://img.shields.io/badge/Email-mr.ahashan261%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mr.ahashan261@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mr-ahabib)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio-link)
-[![GitHub followers](https://img.shields.io/github/followers/mr-ahabib?style=flat-square&logo=github&label=Followers)](https://github.com/mr-ahabib)
-![Profile Views](https://komarev.com/ghpvc/?username=mr-ahabib&style=flat-square&color=0e75b6)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mr-ahabib&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/mr-ahabib?style=social" alt="GitHub Followers" />
+</p>
 
 ---
 
-## About Me
+## About
+AI/ML Engineer building production systems with LLMs, RAG, and deep learning. Full-stack developer experienced in scalable ML applications, medical AI platforms, legal AI platforms, and research. I bring together clean software engineering and cutting-edge AI.
 
-AI/ML Engineer building production systems with **LLMs, RAG, and deep learning**. I bridge clean software engineering and cutting-edge AI — from medical LMS platforms to legal AI solutions. Currently active in LLM research, including memory editing and multi-model merging.
-
-- 🔬 **Research:** LLM memory editing, RL-based model optimization, multi-LLM merging
-- 🏗️ **Production:** Deployed RAG pipelines, vector DBs, and LLM-powered web apps at scale
-- 📄 **Published:** 3 papers in IEEE conferences (INDUSCON 2025, TENSYMP 2025, ICEEICT 2024)
-- 🌍 **Experience:** Bangladesh & Finland (LUT University)
+**Location:** Dhaka, Bangladesh
 
 ---
 
 ## Experience
+**AI/ML Engineer** · Ethics Advance Technology Ltd. · Dhaka, Bangladesh (Feb 2025 – Jan 2026)
+- Applied domain-adapted LLMs with prompt engineering, document chunking, vector DBs, and RAG for a medical LMS.
+- Ensured responsible AI practices, including fairness and bias mitigation.
+- Deployed LLM-powered solutions into production, integrating with web-based LMS applications for real-time use.
 
-**AI/ML Engineer** — Ethics Advance Technology Ltd. *(Feb 2025 – Jan 2026)*
-> Built domain-adapted LLMs with RAG, vector DBs, and prompt engineering for a medical LMS. Deployed production LLM solutions with responsible AI practices (fairness & bias mitigation).
-
-**Research Assistant** — LUT University, Finland *(Aug 2024 – Jan 2025)*
-> Implemented LLM memory editing with RL-based approaches, built factual evaluation datasets, and explored multi-LLM merging to preserve distinct model knowledge.
-
----
-
-## Featured Projects
-
-| Project | Stack | Description |
-|---|---|---|
-| [**AI LMS Platform**](https://your-link) | LLMs · RAG · FastAPI · React · Vector DB | Production AI Learning Management System with domain-adapted LLMs for medical education |
-| [**Docean AI**](https://your-link) | LLM · OCR · FastAPI · RAG | Document intelligence platform supporting Bangla, Arabic, English & math; AI chatbot + fast retrieval |
-| [**Bangla PDF RAG System**](https://github.com/mr-ahabib) | FastAPI · FAISS · React · OCR | Reads Bangla PDFs and answers questions via OCR + semantic search + LLM |
-| [**RAG Q&A & MCQ Generator**](https://github.com/mr-ahabib) | FastAPI · FAISS · Llama · React | Generates MCQs and answers from documents with RAG pipeline |
-| [**DocLink**](https://github.com/mr-ahabib) | React Native · MySQL · Express · OCR | Medical records app with AI-based disease prediction via symptom analysis |
+**Research Assistant** · LUT University · Lappeenranta, Finland (Aug 2024 – Jan 2025)
+- Implemented and evaluated LLM memory editing techniques, including RL-based approaches for optimal edit locations and directions.
+- Developed factual datasets and performed model ranking to assess accuracy and consistency.
+- Explored multi-LLM merging to preserve distinct knowledge while maintaining performance.
 
 ---
 
-## Skills
+## Projects
+**AI LMS Platform** · Live
+LLMs · RAG · FastAPI · React · Vector DB · Embedding
+- Production-grade AI-powered Learning Management System integrating domain-adapted LLMs with RAG pipelines for intelligent content delivery, Q&A, and medical education support.
 
-**AI / ML**
-`LLMs` `RAG` `LangChain` `Transformers` `NLP` `Hugging Face` `PyTorch` `TensorFlow` `Deep Learning` `Machine Learning`
+**Docean AI** · Live
+LLM APIs · OCR · FastAPI · RAG · Knowledge Base
+- Document platform converting scanned files into structured, searchable data across Bangla, Arabic, English, and math. Built RAG-based knowledge systems enabling AI chatbots and fast information retrieval.
 
-**Languages**
-`Python` `Java` `TypeScript` `JavaScript` `C` `C++` `Solidity`
+**Bangla PDF RAG System** · GitHub
+FastAPI · RAG · React · FAISS · OCR
+- Reads Bangla PDFs and provides accurate answers by combining OCR, semantic search, and AI-powered language understanding.
 
-**Frameworks & Tools**
-`FastAPI` `Django` `Next.js` `React` `React Native` `Node.js` `Express.js` `Spring Boot`
+**RAG Q&A and MCQ Generator** · GitHub
+FastAPI · FAISS · RAG · React · Llama
+- Answers questions, supports chat, and generates MCQs from documents with a FastAPI backend and React frontend.
 
-**Databases**
-`PostgreSQL` `MySQL` `MongoDB` `FAISS` `PgVector` `Vector DBs`
-
-**Other**
-`Blockchain` `OCR` `REST APIs` `JWT` `Git` `Linux` `Docker`
+**DocLink** · GitHub
+TypeScript · React Native · MySQL · Express · OCR
+- Medical app for managing health records and document scanning with OCR, integrated with AI-based disease prediction.
 
 ---
 
 ## Publications
-
-- 📄 **A Secure Blockchain Based Brain Tumor Prediction Model Using Swin Transformers** — *INDUSCON 2025, Brazil*
-- 📄 **ADDomics: Enhancing Multiomics Fusion with Autoencoders and Deep Neural Networks** — *TENSYMP 2025, New Zealand*
-- 📄 **PyroVision: A Deep Learning Based Model for Wildfire Detection in Satellite Imagery** — *ICEEICT 2024, Dhaka*
-
----
-
-## Achievements
-
-🏆 Champion — Kaggle Competition, UIU (2024)  
-🏆 Champion — Software Lab Project Show, UIU (2024)  
-📝 Reviewer — TENSYMP 2025, IEEE Region 10 Symposium  
-🎖️ Bangladesh Scouts Award — Received from the Prime Minister of Bangladesh (2012)
+- **A Secure Blockchain Based Brain Tumor Prediction Model Using Swin Transformers** — 2025 INDUSCON, Brazil
+- **ADDomics: Enhancing Multiomics Fusion with Autoencoders and Deep Neural Networks** — 2025 TENSYMP, New Zealand
+- **PyroVision: A Deep Learning Based Model for Wildfire Detection in Satellite Imagery** — 2024 ICEEICT, Dhaka
 
 ---
 
 ## Education
-
-🎓 **B.Sc. in Computer Science & Engineering** — United International University, Dhaka *(2019–2023)* · CGPA: 3.62/4.00
+- **United International University** — B.Sc. in CSE · CGPA: 3.62/4.00 (2019 – 2023)
+- **Govt. Azizul Haque College** — HSC · GPA: 4.83/5.00 (2017 – 2019)
 
 ---
 
-## GitHub Stats
+## Achievements
+- Champion — Kaggle Competition, UIU (2024)
+- Champion — Software Lab Project Show, UIU (2024)
+- Reviewer — TENSYMP 2025, IEEE Region 10 Symposium
+- Bangladesh Scouts Award — Prime Minister of Bangladesh (2012)
 
-<div align="center">
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=mr-ahabib&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-ahabib&layout=compact&theme=github_dark&hide_border=true" height="165" />
+## Skills
+**Languages:** Python, Java, TypeScript, C, C++, JavaScript, Solidity
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-ahabib&theme=github-dark-blue&hide_border=true" height="165" />
+**Frameworks:** FastAPI, Django, Next.js, React, SQLAlchemy, React Native, Node.js, Express.js
 
-</div>
+**Databases:** MySQL, PostgreSQL, FAISS, Vector DBs, PgVector
+
+**Technologies:** Blockchain, DSA, OCR, JWT, REST APIs, Stripe, Expo, Redux, Axios
+
+**AI/ML:** LLMs, RAG, LangChain, Transformers, NLP, Hugging Face, Machine Learning, PyTorch, Pandas, Deep Learning, TensorFlow
+
+**Version Control:** Git, GitHub, GitLab
 
 ---
 
 ## Connect
-
-<div align="center">
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/mr.ahashan)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_habib_ahashan)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.ahashan261@gmail.com)
-
-</div>
+<p align="center">
+  <a href="https://fb.com/mr.ahashan" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/_habib_ahashan" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
-  <sub>Building intelligent systems, one model at a time.</sub>
-</div>
+## GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-ahabib&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-ahabib&theme=default" alt="GitHub Streak Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-ahabib&layout=compact&theme=default" alt="Top Languages" />
+</p>
