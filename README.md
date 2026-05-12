@@ -201,7 +201,7 @@ Medical records mobile app with OCR and AI-based disease prediction through symp
 
 ## 🎓 Education
 
-**B.Sc. in Computer Science & Engineering** &nbsp;·&nbsp; United International University, Dhaka &nbsp;`2019 – 2023`  
+**B.Sc. in Computer Science & Engineering** &nbsp;·&nbsp; United International University, Dhaka &nbsp;`2020 – 2024`  
 CGPA: **3.62 / 4.00**
 
 ---
